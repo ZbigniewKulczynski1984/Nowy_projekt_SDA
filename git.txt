@@ -1,0 +1,4 @@
+ System GIT	podstawy działania repozytorium GIT,
+ podstawowe polecenia linii komend,
+ praca z repozytorium zdalnym i lokalnym, ćwiczenia praktyczne,
+ założenie konta w serwisie github.com
