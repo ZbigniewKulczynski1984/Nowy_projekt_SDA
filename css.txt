@@ -1,0 +1,13 @@
+czym jest CSS,
+składnia CSS,
+selektory,
+łączenie CSS i HTML,
+kaskada i precyzyjność selektorów (znaczników),
+podstawowe właściwości elementów HTML (np. margin, font-size)
+box-model,
+jednostki,
+pseudoklasy i pseudoelementy,
+Media queries, viewport,
+RWD - Responsive Web Design - podejście mobile first/desktop first,
+layout HTML - float, flexbox, grid
+ćwiczenia praktyczne
