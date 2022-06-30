@@ -1,0 +1,35 @@
+body{
+    background-color: purple;
+}
+
+#hamburger {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    left: 0;
+    width: 80px;
+    height: 60px;
+    margin: 0 auto;
+    cursor: pointer;
+}
+#hamburger div{
+    position: relative;
+    height: 10px;
+    background-color: #fff;
+    margin-bottom: 12px;
+    transition: 0.3s ease;
+    border-radius: 5px;
+}
+#hamburger.open div:first-child{
+    top: 16px;
+    transform: rotateZ(-45deg);
+    left: -8px;
+}
+#hamburger.open div:last-child{
+    top: -6px;
+    transform: rotateZ(-45deg);
+    left: -8px;
+}
+#hamburger.open div:nth-child(2) {
+    display: none;
+}
