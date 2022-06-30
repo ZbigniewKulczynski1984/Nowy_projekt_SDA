@@ -1,0 +1,4 @@
+Narzędzia	poznanie podstawowych narzędzi pracy (VSCode, Jira, Confluence, Trello, Figma),
+konfiguracja edytora kodu, instalacja rozszerzeń,
+założenie konta Atlassian,
+ćwiczenia praktyczne
